@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>nbu.cloud.uz</title>
+</head>
+
+<body>
+    <div class="container ">
+        <div class="logo">
+            <img src="img/header_background/logo.png" alt="logo_nbu" />
+        </div>
+        <div class="text">
+            In this page you can download and upload any file!
+            <br> Click the buttons below ...
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="link ">
+            <br>
+            <a href="https://nbu.uz/"> <button>Upload</button> </a>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+
+            <a href="https://www.nbu.com/"><button>Download</button> </a>
+        </div>
+        <div class="text-area">
+            <br> <textarea name="Description" id="" cols="40" rows="10">Description</textarea>
+        </div>
+    </div>
+</body>
+
+
+</html>
